@@ -10,8 +10,7 @@ Live demo: https://pure-sight-proto-type.vercel.app/
 - **Framework:** React 18
 - **Bundler:** Vite
 - **Styling:** Vanilla CSS + CSS variables (glass‑morphism, dark‑mode ready)
-- **Linting:** ESLint (OXC)
-- **Testing:** Vitest + React Testing Library
+
 
 ---
 
